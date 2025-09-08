@@ -6,9 +6,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "",
+  "author": "NiainaM",
   "license": "ISC",
-  "description": "",
+  "description": "1- node init ( initialisation nodeJs )\r 2- node install express sequelize mysql2 ( installation express avec ORM Sequelize pour un DB MySQL )\r 3- creer un fichier .env :\r     DB_HOST=localhost\r     DB_USER=root\r     DB_PASSWORD=\r     DB_NAME=gestion_hotel2\r     DB_DIALECT=mysql\r 4- node app.js ( lancer le back-end )",
   "dependencies": {
     "bcrypt": "^6.0.0",
     "cors": "^2.8.5",
@@ -20,5 +20,10 @@
     "sequelize": "^6.37.7",
     "swagger-jsdoc": "^6.2.8",
     "swagger-ui-express": "^5.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "NiainaM"
   }
 }

@@ -1,5 +1,5 @@
-1- node init ( initialisation nodeJs )
-2- node install express sequelize mysql2 ( installation express avec ORM Sequelize pour un DB MySQL )
+1- npm init ( initialisation nodeJs )
+2- npm install express sequelize mysql2 ( installation express avec ORM Sequelize pour un DB MySQL )
 3- creer un fichier .env :
     DB_HOST=localhost
     DB_USER=root
